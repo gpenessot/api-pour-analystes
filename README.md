@@ -190,7 +190,3 @@ Ce projet est une base volontairement simple. En production, les étapes suivant
 - **Déploiement** : Docker + un service cloud (Railway, Render, ou une VM) pour que l'URL soit accessible hors de ton poste
 - **Source de données réelle** : remplacer le Parquet par une connexion à ta base SQL ou ton data warehouse — une seule ligne à changer dans `services/analyse.py`
 - **Monitoring** : loguer chaque appel pour savoir qui utilise quoi
-
----
-
-*Réalisé pour la newsletter [DataGyver](https://datagyver.fr) · Licence MIT*
