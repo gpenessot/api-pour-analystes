@@ -1,6 +1,6 @@
 # De "je t'envoie un Excel" à "voici ton endpoint"
 
-> Repo compagnon de la newsletter **[DataGyver #11](https://datagyver.fr)** · Stack : FastAPI · Polars · Streamlit · uv
+> Repo compagnon de la newsletter **[DataGyver #11](https://datagyver.substack.com/)** · Stack : FastAPI · Polars · Streamlit · uv
 
 ---
 
